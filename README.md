@@ -2,10 +2,12 @@
 Simple measurement application using AR Foundation and Unity. Tested on Android devices using ARCore, should work on iOS through ARKit as well.
 
 You can measure custom AR objects:
-![alt text](https://imgur.com/a/Xevz9gH)
+
+![alt text](https://i.imgur.com/NfSISW4.jpg)
 
 Or real-life objects:
-![alt text](https://imgur.com/a/7jNYaql)
+
+![alt text](https://i.imgur.com/coS5PhQ.jpg)
 
 
 ## Requirements:
