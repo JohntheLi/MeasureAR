@@ -1,6 +1,12 @@
 # MeasureAR
 Simple measurement application using AR Foundation and Unity. Tested on Android devices using ARCore, should work on iOS through ARKit as well.
 
+You can measure custom AR objects:
+![alt text](https://imgur.com/a/Xevz9gH)
+
+Or real-life objects:
+![alt text](https://imgur.com/a/7jNYaql)
+
 
 ## Requirements:
 - ARCore supported Android device
